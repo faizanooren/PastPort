@@ -1,18 +1,5 @@
 # PastPort
-Digital Time Capsule:
-Email-based login and signup system
-User profile update functionality
-Ability to create regular time capsules
-Blog post creation
-Search functionality for users, tags, and dates
-Users can save/bookmark public time capsules
-Send capsules to other users with scheduled delivery
-Set capsule opening dates
-Configure capsule expiry (auto-delete after a set period or manual deletion)
-Like public time capsules
-Download capsules as PDF or ZIP files
-Create collaborative capsules with real-time message editing
-Create encrypted private capsules with password protection
-Legacy and memorial capsules for leaving messages to loved ones (requires authentication)
-QR code generation for crowd-sourced capsule contributions
-Notification system for interactions like likes on public capsules
+Digital Time Capsule that allows the following functions:
+Email-based login and signup system, User profile update functionality
+Ability to create regular time capsules, encrypted private capsules with password protection, collaborative capsules with real-time message editing and legacy and memorial capsules for leaving messages to loved ones (requires authentication). These capsules can be made private, delivered via emails to someone (scheduled delivery), or have public accessibility. Creators can also set capsule opening dates before which they cannot be opened and configure capsule expiry (auto-delete after a set period or manual deletion). They can also download capsules as PDF or ZIP files. Users can search and filter capsules based on usernames, capsule titles, tags, and dates. Users can save/bookmark and public time capsules. Another interesting feature is the QR code generated capsules enabling crowd-sourced capsule contributions, perfect for documenting special events.
+Lastly, users will recieve notifications for interactions like recieving likes on their capsules.
